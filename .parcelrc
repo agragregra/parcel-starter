@@ -1,0 +1,5 @@
+{
+	"extends": "@parcel/config-default",
+	"namers": [ "@agragregra/parcel-namer-beautify", "..." ],
+	"optimizers": { "*.html": [] }
+}
