@@ -17,6 +17,7 @@
 	<li>Clone or <a href="https://github.com/agragregra/ps/archive/master.zip">Download</a> <strong>Parcel Starter</strong> from GitHub</li>
 	<li>Install Node Modules: <strong>npm i</strong></li>
 	<li>Run: <strong>npm start</strong></li>
+	<li>Build: <strong>npm run build</strong></li>
 </ol>
 
 <h2>Basic rules</h2>
