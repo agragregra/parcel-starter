@@ -12,9 +12,9 @@
   "description": "Lightweight Parcel Template",
   "devDependencies": {
     "@agragregra/parcel-namer-beautify": "^1.0.1",
-    "@parcel/transformer-sass": "^2.12.0",
+    "@parcel/transformer-sass": "^2.13.2",
     "node-sass-glob-importer": "^5.3.3",
-    "parcel": "^2.12.0",
+    "parcel": "^2.13.2",
     "posthtml-include": "^2.0.1",
     "sharp": "^0.31.3"
   }
